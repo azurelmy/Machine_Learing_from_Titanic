@@ -1,0 +1,5 @@
+1.Import Data
+2.Feature Engineering: 
+  Check each of the feature's impact on labels
+  Add new features
+3.Data Cleaning
